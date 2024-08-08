@@ -42,6 +42,13 @@
 - push
 
 # Log 
+- [0.11] add: reference, fix: last update
+    - 09-Aug-2024
+        - add: readme template lines
+        - add: vue
+        - add: reference
+        - fix: last update project name
+
 - [0.1] add: first profile block
     - 08-Aug-2024
         - add: statistics

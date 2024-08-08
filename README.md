@@ -2,16 +2,21 @@
 
 I am an architecture student with a strong interest in computer graphics, data visualization, and architectural, information, and organizational theories. I enjoy analyzing, tinkering with, and creating various projects. If you are interested in collaborating or would like to get in touch, you can find me on the platforms listed below (I am most active on Discord). Thank you for your time and for visiting!
 
-<h4>Active Projects</h4>
-
+__🔭 I’m currently working on ...__
 -   **Development**: OpenGL 3D Renderer (C++, OpenGL)
 -   **Development**: Lightbox Blender Addon (Python)
 -   **Development**: Blackboard Grammar Trainer (Nuxt 2, JavaScript)
--   **3D Art**: 3D Asset / Shader Authoring in Blender
+-   **3D Digital Art**: 3D Asset / Shader Authoring in Blender
 
-I am always open to potential collaboration opportunities to learn and/or create together.
+__🌱 I’m currently learning mainly computer graphics through OpenGL.__
 
-<img alt="Last Update" src="https://img.shields.io/github/last-commit/kutaycoskuner/project_lightbox" />
+__👯 I am always open to potential collaboration opportunities to learn and/or create together.__
+
+__💬 Ask me about architecture maybe?__
+
+__📫 How to reach me: kutay.coskuner@gmail.com__
+
+<img alt="Last Update" src="https://img.shields.io/github/last-commit/kutaycoskuner/kutaycoskuner" />
 
 
 <h3 align="center">Various platforms that I do exist</h3>
@@ -54,6 +59,7 @@ I am always open to potential collaboration opportunities to learn and/or create
 <h4>Web Frameworks</h4>
 <p>
   <img alt="Nuxt" src="https://img.shields.io/badge/nuxt-00DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+    <img alt="Vue" src="https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
@@ -90,10 +96,16 @@ I am always open to potential collaboration opportunities to learn and/or create
     <img width="460" height="280" alt="Kutay's github stats" src="https://github-readme-stats.vercel.app/api?username=kutaycoskuner&theme=transparent&show_icons=true" />
   </a>
   <a href="https://github.com/kutaycoskuner">
-	<img width="360" height="280" alt="Kutay's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutaycoskuner&layout=compact&theme=transparent" alt="Top Languages" />
+	<img width="350" height="280" alt="Kutay's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutaycoskuner&layout=compact&theme=transparent" alt="Top Languages" />
   </a>
 </p>
 
+
+--- 
+
+<h4>Credits</h4>
+
+This document is inspired and heavily influenced by <a href="https://github.com/NeziheSozen">Nezihe Sözen's GitHub profile</a>.
 <!--
 **kutaycoskuner/kutaycoskuner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
