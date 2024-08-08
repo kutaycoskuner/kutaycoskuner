@@ -42,6 +42,9 @@
 - push
 
 # Log 
+- [0.12] fix artstation link
+    - 09-Aug-2024 fix: artstation link
+
 - [0.11] add: reference, fix: last update
     - 09-Aug-2024
         - add: readme template lines

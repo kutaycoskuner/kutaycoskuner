@@ -2,22 +2,22 @@
 
 I am an architecture student with a strong interest in computer graphics, data visualization, and architectural, information, and organizational theories. I enjoy analyzing, tinkering with, and creating various projects. If you are interested in collaborating or would like to get in touch, you can find me on the platforms listed below (I am most active on Discord). Thank you for your time and for visiting!
 
-__🔭 I’m currently working on ...__
+**🔭 I’m currently working on ...**
+
 -   **Development**: OpenGL 3D Renderer (C++, OpenGL)
 -   **Development**: Lightbox Blender Addon (Python)
 -   **Development**: Blackboard Grammar Trainer (Nuxt 2, JavaScript)
 -   **3D Digital Art**: 3D Asset / Shader Authoring in Blender
 
-__🌱 I’m currently learning mainly computer graphics through OpenGL.__
+**🌱 I’m currently learning mainly computer graphics through OpenGL.**
 
-__👯 I am always open to potential collaboration opportunities to learn and/or create together.__
+**👯 I am always open to potential collaboration opportunities to learn and/or create together.**
 
-__💬 Ask me about architecture maybe?__
+**💬 Ask me about architecture maybe?**
 
-__📫 How to reach me: kutay.coskuner@gmail.com__
+**📫 How to reach me: kutay.coskuner@gmail.com**
 
 <img alt="Last Update" src="https://img.shields.io/github/last-commit/kutaycoskuner/kutaycoskuner" />
-
 
 <h3 align="center">Various platforms that I do exist</h3>
 
@@ -25,7 +25,7 @@ __📫 How to reach me: kutay.coskuner@gmail.com__
 	<a href="https://discordapp.com/users/186240632438784000/">
 		<img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
 	</a>
-	<a href="#">
+	<a href="https://www.artstation.com/kutay_coskuner">
 		<img alt="Artstation" src="https://img.shields.io/badge/Artstation-13AFF0.svg?style=for-the-badge&logo=artstation&logoColor=white" />
 	</a>
 	<!-- <a href="#">
@@ -92,20 +92,16 @@ __📫 How to reach me: kutay.coskuner@gmail.com__
 
 <h3 align="center"> Some statistics </h3>
 <p align="center">
-  <a href="https://github.com/kutaycoskuner">
-    <img width="460" height="280" alt="Kutay's github stats" src="https://github-readme-stats.vercel.app/api?username=kutaycoskuner&theme=transparent&show_icons=true" />
-  </a>
-  <a href="https://github.com/kutaycoskuner">
+  <img width="460" height="280" alt="Kutay's github stats" src="https://github-readme-stats.vercel.app/api?username=kutaycoskuner&theme=transparent&show_icons=true" />
 	<img width="350" height="280" alt="Kutay's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutaycoskuner&layout=compact&theme=transparent" alt="Top Languages" />
-  </a>
 </p>
 
-
---- 
+---
 
 <h4>Credits</h4>
 
 This document is inspired and heavily influenced by <a href="https://github.com/NeziheSozen">Nezihe Sözen's GitHub profile</a>.
+
 <!--
 **kutaycoskuner/kutaycoskuner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
