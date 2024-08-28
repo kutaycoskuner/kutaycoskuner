@@ -37,11 +37,15 @@
 # Procedure
 - log updates
 - check todo
-- update version and date
 - update timelog
 - push
 
 # Log 
+- [todo]
+
+- [0.13] simplification update
+    - 28-Aug-2024 simplification update
+
 - [0.12] fix artstation link
     - 09-Aug-2024 fix: artstation link
 
