@@ -43,6 +43,12 @@
 # Log 
 - [todo]
 
+- [0.14]<removed stats; revised text; update working on>
+    - 14-Aug-2026 
+        - updated what I do
+        - revised text 
+        - removed stats
+
 - [0.13] simplification update
     - 28-Aug-2024 simplification update
 

@@ -1,18 +1,36 @@
 <h2 align="center"> Hi there 👋 </h2>
 
-I am an architecture student with a strong interest in computer graphics, data visualization, and architectural, information, and organizational theories. I enjoy analyzing, tinkering with, and creating various projects. If you are interested in collaborating or would like to get in touch, you can find me on the platforms listed below (I am most active on Discord). Thank you for your visit.
+</p>
 
-**🔭 I’m currently working on ...**
--   **Development**: OpenGL 3D Renderer (C++, OpenGL)
--   **Development**: Lightbox Blender Addon (Python)
--   **Development**: Imge - Web Based Node Editor, Data Visualizer (Nuxt 3, Vue, JavaScript)
--   **3D Digital Art**: 3D Asset / Shader Authoring in Blender
+I am currently a computer science student with a background in Architecture and a particular interest in computer graphics, data visualization, computational and autonomous systems.
 
-**🌱 I’m currently learning mainly computer graphics through OpenGL.**
+I enjoy analyzing how things work, experimenting with different technologies, and building/designing projects that connect computation with visual and spatial thinking. I also write about architectural theory, philosophy and social systems.
+
+I am always open to collaboration and conversations with people who share parallel or intersecting interests. Feel free to reach out via email or Discord. Thanks for visiting
+
+
+**🔭 Currently working on**
+- **OpenGL 3D Renderer**: C++, OpenGL
+- **Calisthenics Dictionary**: PostgreSQL, Three.js, Svelte
+- **Imge**: Web-based node editor and data visualization tool
+- **Immersion**: Web-based 3D visualization and shader experimentation playfield
+- **Lightbox**: Blender utility addon
+- **3D & Shaders**: Blender, GLSL, HLSL, Unity
+
+**🌱 Currently learning**
+- Computer graphics and rendering through OpenGL
+- Data structures, algorithms, and discrete mathematics
+- Web application architecture and backend development
+- GPU programming and shader development
+
+**💬 Ask me about**
+- Computer graphics
+- Theory of architecture
+- Game design
+- Data visualization
+- Philosophy of science
 
 **👯 I am always open to potential collaboration opportunities to learn and/or create together.**
-
-**💬 Ask me about architecture.**
 
 **📫 How to reach me: kutay.coskuner@gmail.com**
 
@@ -35,11 +53,14 @@ I am an architecture student with a strong interest in computer graphics, data v
 	<a href="https://www.kaggle.com/orthrin">
 		<img alt="Kaggle" src="https://img.shields.io/badge/kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" />
 	</a>
-  	<a href="https://kutaycoskuner.github.io/">
-		<img alt="Kaggle" src="https://img.shields.io/badge/Website-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  	<a href="https://kutaycoskuner.github.io/blog/">
+		<img alt="Kaggle" src="https://img.shields.io/badge/blog-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 	</a>
 </p>
 </p>
+
+
+<!--
 
 ---
 
@@ -49,7 +70,6 @@ I am an architecture student with a strong interest in computer graphics, data v
 	<img width="350" height="280" alt="Kutay's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutaycoskuner&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
-<!--
 **kutaycoskuner/kutaycoskuner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
